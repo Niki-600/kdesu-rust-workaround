@@ -16,7 +16,7 @@ DISCLAIMER:
 
 I am currently unsure about what security implications applying this fix might have as the wrapper is located in the home directory
 
-I might even edit the script to basically replace kdesu entirely using polkit (Basically: kdesu calls polkit -> you get prompted to authenticate by polkit -> kdesu prompt arrives -> enter nothing -> App still opens)
+I might even edit the script to basically replace kdesu entirely using polkit (Basically: kdesu calls polkit -> you get prompted to authenticate by polkit -> kdesu prompt arrives -> enter nothing -> App opens)
 
 --------------------------------------------------------------------------
 Where does this Issue come from?
