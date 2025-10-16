@@ -14,7 +14,7 @@ This script IS NOT intended to be a PERMANENT FIX to this issue and cannot accep
 
 DISCLAIMER: 
 
-I am currently unsure about what security implications applying this fix might have
+I am currently unsure about what security implications applying this fix might have as the wrapper is located in the home directory
 
 --------------------------------------------------------------------------
 Where does this Issue come from?
