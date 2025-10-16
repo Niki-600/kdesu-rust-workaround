@@ -11,7 +11,7 @@ Installation:
 
 This script is not intended to be a permanent fix to this issue and cannot accept more than 9 Arguments (sudo + 8)
 
-Also i am currently unsure about the security implications this has
+Also i am currently unsure about the security implications this might have
 
 --------------------------------------------------------------------------
 Where does this Issue come from?
