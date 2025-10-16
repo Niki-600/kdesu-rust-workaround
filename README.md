@@ -15,6 +15,9 @@ This script is not intended to be a permanent fix to this issue and cannot accep
 Where does this Issue come from?
 
 kdesu seems to only accept output from sudo that has exactly one ":" symbol in it.
+
 If there is more than one or none, the process will get stuck and the user is never prompted for authentication.
+
 This has been fine for years, however, since Ubuntu is now Migrating to sudo-rs, this issue arises, as sudo-rs's prompt looks like this:
+
 "[sudo: authenticate] Password:" -> More than one ":" Symbol = kdesu gets stuck = User never gets Prompted.
