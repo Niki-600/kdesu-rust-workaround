@@ -1,6 +1,6 @@
 # kdesu-rust-fix
 
-This script and Config file try to fix kdesu when using sudo-rs
+This script and Config file temporarily fix kdesu when using sudo-rs
 
 --------------------------------------------------------------------------
 Installation:
