@@ -16,6 +16,8 @@ DISCLAIMER:
 
 I am currently unsure about what security implications applying this fix might have as the wrapper is located in the home directory
 
+I might even edit the script to replace kdesu entirely using polkit
+
 --------------------------------------------------------------------------
 Where does this Issue come from?
 
