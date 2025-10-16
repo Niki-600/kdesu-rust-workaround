@@ -1,1 +1,2 @@
-
+[super-user-command]
+command=/home/[YOUR USER]/[PATH TO SCRIPT]
