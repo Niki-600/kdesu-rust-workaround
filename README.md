@@ -16,6 +16,8 @@ DISCLAIMER:
 
 I am currently unsure about what security implications applying this fix might have as the wrapper is located in the home directory
 
+I recommend checking the contents of kdesu-sudo-wrapper for changes regularly
+
 --------------------------------------------------------------------------
 Where does this Issue come from?
 
