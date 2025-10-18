@@ -10,7 +10,7 @@ Installation:
       Example: "command=/home/user/kdesu-sudo-wrapper"
 - Make kdesu-sudo-wrapper executable (right click -> Properties -> Permissions -> Check "Allow file to be executed as a program")
 
-This script IS NOT intended to be a PERMANENT FIX to this issue and cannot accept more than 9 Arguments (sudo + 8)
+This script IS NOT intended to be a PERMANENT FIX to this issue and cannot accept more than 9 Arguments (command + 8)
 
 DISCLAIMER: 
 
