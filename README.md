@@ -32,5 +32,3 @@ This has been fine for years, however, since Ubuntu is now Migrating to sudo-rs,
 Instead of this:
 
 "[sudo] password for user user:" -> One ":" Symbol => kdesu recognizes prompt => User gets prompted for authentication.
-
-// Test Editing through git Directly
