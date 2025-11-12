@@ -12,8 +12,9 @@ Kubuntu: ❌ (There probably is an issue opened for this, I will link it here on
 Installation:
 - copy kdesu-sudo-wrapper into your home directory
 - copy kdesurc config file into ~/.config
-- Edit kdesurc (set command=... to the path where the wrapper is)
-      Example: "command=/home/user/kdesu-sudo-wrapper"
+- Edit kdesurc (set command=... to the path where the wrapper is located)
+
+        Example: "command=/home/user/kdesu-sudo-wrapper"
 - Make kdesu-sudo-wrapper executable (right click -> Properties -> Permissions -> Check "Allow file to be executed as a program")
 
 This script IS NOT intended to be a PERMANENT FIX to this issue and cannot accept more than 9 Arguments (command + 8)
