@@ -5,6 +5,7 @@ This script and Config file temporarily fix kdesu when using sudo-rs
 This Repository will be updated once the issue is fixed in:
 
 Plasma: ❌ (There doesn't appear to be a Issue opened for this yet)
+
 Kubuntu: ❌ (There probably is an issue opened for this, I will link it here once i find it)
 
 --------------------------------------------------------------------------
