@@ -4,7 +4,7 @@ This script and Config file temporarily fix kdesu when using sudo-rs
 
 Affected Distros:
 
-Kubuntu: ✅ (Fixed in kubuntu-settings-desktop(>=25.04.2.1) and ksystemlog(>=25.08.1-0ubuntu1.1))
+Kubuntu (Affected since 25.10): ✅ (Fixed in kubuntu-settings-desktop(>=25.04.2.1) and ksystemlog(>=25.08.1-0ubuntu1.1))
 
 --------------------------------------------------------------------------
 Installation:
