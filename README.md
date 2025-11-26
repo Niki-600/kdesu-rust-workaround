@@ -2,9 +2,7 @@
 
 This script and Config file temporarily fix kdesu when using sudo-rs
 
-This Repository will be updated once the issue is fixed in:
-
-Plasma: ❌ (There doesn't appear to be a Issue opened for this yet)
+Affected Distros:
 
 Kubuntu: ✅ (Fixed in kubuntu-settings-desktop(>=25.04.2.1) and ksystemlog(>=25.08.1-0ubuntu1.1))
 
