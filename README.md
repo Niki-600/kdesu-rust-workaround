@@ -6,7 +6,7 @@ This Repository will be updated once the issue is fixed in:
 
 Plasma: ❌ (There doesn't appear to be a Issue opened for this yet)
 
-Kubuntu: ❌ (There probably is an issue opened for this, I will link it here once i find it)
+Kubuntu: ✅ (Fixed in kubuntu-settings-desktop(>=25.04.2.1) and ksystemlog(>=25.08.1-0ubuntu1.1))
 
 --------------------------------------------------------------------------
 Installation:
