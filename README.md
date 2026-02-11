@@ -19,12 +19,10 @@ This script IS NOT intended to be a PERMANENT FIX to this issue and cannot accep
 
 DISCLAIMER: 
 
-I am currently unsure about what security implications applying this fix might have as the wrapper is located in the home directory
-
-I recommend checking the contents of kdesu-sudo-wrapper for changes regularly
+I am currently unsure about what security implications applying this workaround might have as the wrapper is located in the home directory
 
 --------------------------------------------------------------------------
-Where does this Issue come from?
+Where does this Issue come from? (This is only speculation though!)
 
 kdesu seems to only accept output from sudo that has exactly one ":" symbol in it.
 
